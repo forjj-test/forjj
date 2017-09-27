@@ -7,6 +7,6 @@ It currently implements a simple noop pipeline, with Jenkinsfile.
 
 Thanks
 
-Used for tests with github
+Used for tests with github with versions fixes.
 
 Forj Team
