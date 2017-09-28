@@ -27,4 +27,6 @@ last try just after jobdsl run... Success.
 
 I created both option. All works fine.
 
+Now, I'm testing the standard pipeline with source from github...
+
 Forj Team
