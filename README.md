@@ -34,5 +34,6 @@ Without the need to add a configure, the default behaviours are applied (2)
 It looks like a work is in transition in this subject, where old behavior is still connected and created new data in the job config.
 
 So, I can use that syntax for forjj-jenkins, now, as it will create those pipeline as usual. I just need to verify what happened if I set the api-uri...
+Checking it...
 
 Forj Team
