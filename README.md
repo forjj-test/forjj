@@ -28,5 +28,6 @@ last try just after jobdsl run... Success.
 I created both option. All works fine.
 
 Now, I'm testing the standard pipeline with source from github...
+with jobdsl. The dsl is totally different... It really depends on how the plugin is going to be managing this relationship with jobdsl...
 
 Forj Team
